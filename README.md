@@ -1,6 +1,6 @@
 # Bluetooth and CAN Bus Control System
 
-An embedded control system enabling communication between an Arduino Uno and external devices over both Bluetooth and CAN bus — built as a separate module assignment from the [gyroscope-based gesture/throttle control project](https://github.com/Bidex18/Gyroscope-Based-Gesture-Recognition-System-for-Throttle-Valve-Control), focused specifically on the dual-protocol communication architecture.
+An embedded control system enabling communication between an Arduino Uno and external devices over both Bluetooth and CAN bus focused specifically on the dual-protocol communication architecture.
 
 ## What it does
 
